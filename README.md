@@ -7,3 +7,5 @@ This was my very first implementation with machine learning in Python and I was 
 ## What did you learn from this?
 With this being my first practice of machine learning and data analysis, I learned how to extract a dataset, figuring out how to change models and use them, implementing EarlyStopping, and using RMSE to compare models.
 
+## Lift Chart and Root Mean Square Error (RMSE) of the best model:
+![image](https://user-images.githubusercontent.com/57194224/131184744-8deb9fb5-ee39-472a-a753-46d67bd85cf1.png)
